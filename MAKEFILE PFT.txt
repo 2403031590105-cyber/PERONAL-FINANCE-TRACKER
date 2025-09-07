@@ -1,0 +1,5 @@
+all:
+    g++ Untitled-3 -o personal-finance-tracker.exe
+
+clean:
+    del personal-finance
